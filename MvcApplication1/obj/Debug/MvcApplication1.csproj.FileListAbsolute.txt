@@ -5,3 +5,6 @@ c:\users\chrisf\documents\visual studio 2010\Projects\MvcApplication1\MvcApplica
 c:\users\chrisf\documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
 c:\users\chrisf\documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 c:\users\chrisf\documents\visual studio 2010\Projects\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\chrisf\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\HtmlAgilityPack.dll
+C:\Users\chrisf\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\HtmlAgilityPack.pdb
+C:\Users\chrisf\Documents\Visual Studio 2010\Projects\MvcApplication1\MvcApplication1\bin\HtmlAgilityPack.xml
